@@ -26,13 +26,13 @@ Allows students access a variety of events happening on campus. Can see users po
 **Required Must-have Stories**
 
 * Sign Up
-* Login and Log out
+* User logs in and logs out and can access previous posts
 * Post, View
   * Original User can delete Post
 
 **Optional Nice-to-have Stories**
 
-* Filter by events
+* Filter by event category (for international students, by major, etc.)
 * ...
 
 ### 2. Screen Archetypes
