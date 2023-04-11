@@ -12,11 +12,12 @@ Allows students access a variety of events happening on campus. Can see users po
 
 ### App Evaluation
 - **Category:** Productivity
-- **Mobile:** Mobile is essential checking the latest posts. The camera is used to take pictures of post.
-- **Story:** Easier way to check on events and whats happening on campus.
-- **Market:** 
-- **Habit:** 
-- **Scope:** V1 would allow students to post things events, posts. V2 would incorperate filters to search events.
+- **Mobile:** This app would be primarily developed for mobile so that users can check the latest posts. They may also use the camera to take pictures of posters on campus for events happening, but it could also eventually be extended to use on a computer like Instagram where functionality may be a bit more limited since you can't use the computer camera to upload posts.
+- **Story:** Easier way to check on events and whats happening on campus. User will be able to see different upcoming events happening on campus and be able to filter through the ones that they want to see.
+- **Market:** Students will be the primary market for the app--most likely high school and college students will benefit the most from it.
+- **Habit:** This app could be used as often or unoften as the user wanted depending on how often they have time and are looking for cool new events to participate in/club events to join.
+- **Scope:** V1 would allow students to post things events, posts. V2 would incorperate filters to search events, and somehow distinguish between what school you attend so that you can join your specific college community.
+
 
 ## Product Spec
 
