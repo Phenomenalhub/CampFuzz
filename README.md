@@ -33,6 +33,10 @@ Allows students access a variety of events happening on campus. Can see users po
 **Optional Nice-to-have Stories**
 
 * Filter by event category (for international students, by major, etc.)
+* Input event time
+* Be able to comment on the posts
+* Save the posts and star the ones that you like or are interested in
+* Get a notification when any events that you starred are starting soon
 * ...
 
 ### 2. Screen Archetypes
@@ -78,7 +82,7 @@ Allows students access a variety of events happening on campus. Can see users po
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="campfuzzwireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
