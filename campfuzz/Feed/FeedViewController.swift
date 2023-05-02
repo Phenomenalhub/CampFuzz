@@ -12,6 +12,7 @@ import ParseSwift
 
 class FeedViewController: UIViewController {
 
+    @IBOutlet weak var searchBar: UISearchBar!
     @IBOutlet weak var tableView: UITableView!
     private let refreshControl = UIRefreshControl()
     
