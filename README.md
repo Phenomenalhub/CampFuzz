@@ -9,6 +9,7 @@
 ### Description
 Allows students access a variety of events happening on campus. Can see users posts, 
 
+<img src="campfuzzgif.gif" width=600>
 
 ### App Evaluation
 - **Category:** Productivity
